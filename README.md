@@ -1,2 +1,2 @@
 # IMAGINE_public
-Repository for IMAGINE pilot data
+This reporsitory stores de-identified data and code for the IMAGINE pilot study.
